@@ -23,4 +23,4 @@ For the CIFAR10 dataset, edit the file to specify the path to the dataset in
 `DATA_DIR` before running. CIFAR10 dataset is publicly available; the
 download URL is in the file.
 
-- `python gan_cifar_testcode.py`: CIFAR-10
+- `python gan_cifar_testcode.py`
