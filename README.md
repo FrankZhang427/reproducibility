@@ -5,7 +5,7 @@ Code for reproducing experiments in ["Improved Training of Wasserstein GANs"](ht
 
 and ["Improving the Improved Training of Wasserstein GANs"](https://openreview.net/pdf?id=SJx9GQb0-)
 
-
+The python code is modified based on the original code of two papers.
 
 ## Prerequisites
 
